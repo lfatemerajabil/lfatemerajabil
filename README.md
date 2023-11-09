@@ -2,7 +2,7 @@
 
 I'm Fateme 🙋‍♀️
 
-I like to work on _AI_ and _Data Mining_ and actually, everything is related to _Algorithms_ 📚
+I like to work on _AI_ and _Data Science_ projects 📚
 
 I share my codes (and sometimes the summaries of what I have learned) here 🖍
 
