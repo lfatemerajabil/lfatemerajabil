@@ -8,8 +8,6 @@ Here, I eagerly share not only my crafted codes but also concise summaries of th
 
 Your thoughts and opinions on my repositories would be immensely appreciated 🖍
 
-</a> <img src="https://komarev.com/ghpvc/?username=mirsazzathossain" height="20px">
-
 
 <a href="https://www.linkedin.com/in/lfatemerajabil/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:rjbi.ftmh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://x.com/rjbi_ftmh"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
 <br>
