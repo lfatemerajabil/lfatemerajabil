@@ -13,4 +13,4 @@ Your thoughts and opinions on my repositories would be immensely appreciated ðŸ–
 <br>
 ![](https://komarev.com/ghpvc/?username=lfatemerajabil)
 
-![snake animation](https://github.com/lfatemerajabil/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/lfatemerajabil/lfatemerajabil/blob/output/github-contribution-grid-snake2.svg)
